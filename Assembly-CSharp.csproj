@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Bolchie\Scripts\Demo.cs" />
     <Compile Include="Assets\Bolchie\Scripts\Toggle.cs" />
+    <Compile Include="Assets\Scripts\SwanMove.cs" />
     <None Include="Assets\Bolchie\Package Information.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/verehu/unity-workspace/2DGame/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
